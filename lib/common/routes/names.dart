@@ -1,3 +1,3 @@
 class AppRoutes{
-  static const INITIAL = '/';
+  static const INITIAL = "/ ";
 }
